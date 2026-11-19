@@ -1,0 +1,10 @@
+.build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+/pr3
+*.o
+*.obj
+*.exe
+*.a
+*.out
